@@ -31,7 +31,7 @@ poetry install
 Run the script directly:
 
 ```bash
-poetry run py src\lissajous
+poetry run py src\lissajous\lissajous.py
 ```
 
 ### Customization
