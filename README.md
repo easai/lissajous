@@ -34,6 +34,8 @@ Run the script directly:
 poetry run py src\lissajous\lissajous.py
 ```
 
+![Lissajous Curve](./lissajous.png)
+
 ### Customization
 
 You can tweak the parameters A, B, a, b, and delta in the script to explore different curve shapes.
