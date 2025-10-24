@@ -16,9 +16,10 @@ x(t) = A \cdot \sin(a t + \delta), \quad y(t) = B \cdot \sin(b t)
 $$
 
 Where:
-- $ A, B $ are amplitudes
-- $ a, b $ are frequencies
-- $ \delta $ is the phase difference
+- A, B are amplitudes
+- a, b are frequencies
+- $\delta$ is the phase difference
+</div>
 
 ### Usage
 
